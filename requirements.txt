@@ -1,0 +1,19 @@
+# Core dependencies
+gradio==4.19.2
+groq==0.4.2
+
+# Document processing
+pypdf==3.17.4
+python-docx==1.1.0
+pandas==2.1.4
+numpy==1.24.3
+
+# RAG and embeddings
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# PDF generation
+reportlab==4.0.4
+
+# Utilities
+python-dotenv==1.0.0
